@@ -1,1 +1,2 @@
 # odin-recipes
+This is my finished recipes project including three of my personal favourites. I ran into some issues with github and deleted the original repo before making it again, re commiting everything and pushing it to github. It was a dumb mistake but I learened a lot about git/git hub so not a complete waste of time. If anyone doing the odin project reads this and sees issues in the code please feel free to comment, I always enjoy the feedback. Thanks!
